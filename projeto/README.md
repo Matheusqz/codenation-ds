@@ -26,31 +26,13 @@ https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_port
 
 As bases de portfólio poderão ser utilizadas para testar a aderência da solução. Além disso, se a equipe desejar, poderá simular portfólios por meio de amostragens no mercado.
 
-## Descrição de variáveis
+[Descrição de variáveis]
 
-Requisitos técnicos obrigatórios
+## Requisitos técnicos obrigatórios
 Utilizar técnicas de data science e machine learning para desenvolver o projeto;
 Apresentar o desenvolvimento e outputs do modelo em um Jupyter Notebook ou outra tecnologia de apresentação de Output de modelos de Machine Learning;
 A análise deve considerar os seguintes pontos: análise exploratória dos dados, tratamento dos dados, avaliação de algoritmos, treinamento do modelo, avaliação de performance do modelo e visualização dos resultados;
 Para a apresentação do projeto, o tempo entre o treinamento do modelo e o output deve ser menor que 20 min.
-Sobre a apresentação do projeto
-Para que todos do grupo tenham a chance de apresentar seu trabalho, a apresentação deve ser feita de forma individual. Vocês podem ensaiar juntos, fazer um roteiro parecido, mas é importante que cada participante faça sua própria gravação.
 
-Objetividade é muito importante - falem naturalmente e sem ler, por favor! :) Recomendamos que você faça um video-call e gravem este call. Assim, poderão ficar à vontade para compartilhar a tela e mostrar o código ou qualquer outra coisa importante. O vídeo deve ter no máximo 10 minutos.
-
-Segue uma sugestão de roteiro:
-
-1- Apresentação pessoal
-“Oi, pessoal…, eu me chamo _____ e vou apresentar para vocês o projeto final que fiz com a squad ______(número e nome) da Aceleração _______ da Codenation.”
-2- Apresentação do projeto
-Os membros da squad;
-Descrição do projeto e desenvolvimento do processo que a squad utilizou para resolver o problema;
-Divisão de tarefas entre os membros da squad e quais foram suas principais responsabilidades;
-Tecnologias utilizadas e eficácia;
-Aprendizados destacados durante o processo e ao final do projeto;
-Duas principais dificuldades, e como foram contornadas;
-Dois principais acertos ou escolhas acertadas que fizeram diferença no projeto e por quê.
-Para ficar mais fácil, dê uma olhada nesta apresentação de projeto de um programa que realizamos em Joinville. Neste caso, os participantes desenvolveram em squads uma aplicação (backend e frontend) que buscava anunciar animais perdidos ou animais para adoção. Assim, pessoas interessadas poderiam colaborar para adotar e/ou encontrar um pet. Fiz alguns comentários na apresentação para ajudar vocês! :)
-
-Como enviar os vídeos?
-Após terem determinado o roteiro e feito suas gravações individuais, encaminhe por e-mail o link do vídeo no YouTube (lembre de colocá-lo como não listado, por favor). No título, use a seguinte descrição: “Apresentação projeto final [Seu Nome] [nome de sua squad]”. O link do vídeo deve ser enviado para mario.machado@codenation.dev e ingrid.adam@codenation.dev, juntamente com o link do Code Review do projeto na plataforma Codenation, com o assunto “AceleraDev Python - Squad [nº da sua squad]” até o dia 14/08/2019.
+## Data de Entrega
+14/08/2019.
